@@ -1,2 +1,2 @@
-# -MY-IDEA
+# MY-IDEA
 我的IDEA仓库
