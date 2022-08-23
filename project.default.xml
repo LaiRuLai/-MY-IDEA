@@ -1,0 +1,38 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CheckStyle-IDEA" serialisationVersion="2">
+        <checkstyleVersion>10.3</checkstyleVersion>
+        <scanScope>JavaOnly</scanScope>
+        <copyLibs>true</copyLibs>
+        <option name="thirdPartyClasspath" />
+        <option name="activeLocationIds" />
+        <option name="locations">
+          <list>
+            <ConfigurationLocation id="394da49b-9b91-4734-ba69-7c074584c5c1" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+            <ConfigurationLocation id="e7d44a13-1996-48d7-a5f8-45688b02d16d" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+          </list>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="advanced.settings" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<keymap version="1" name="Windows 副本" parent="$default">
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="1" second-keystroke="2" />
+  </action>
+</keymap>
