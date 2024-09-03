@@ -4,8 +4,8 @@
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="editor.focus.mode.color.light" value="555555" />
-    <entry key="editor.focus.mode.color.dark" value="555555" />
+    <entry key="editor.focus.mode.color.light" value="2e5861" />
+    <entry key="editor.focus.mode.color.dark" value="2e5861" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
