@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="项目 'DotCom'" />
-    <option name="defaultScopeName" value="项目 'DotCom'" />
-    <option name="SEARCH_SCOPE" value="项目 'DotCom'" />
+    <option name="customScope" value="项目 'Java_Learner'" />
+    <option name="defaultScopeName" value="项目 'Java_Learner'" />
+    <option name="SEARCH_SCOPE" value="项目 'Java_Learner'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
