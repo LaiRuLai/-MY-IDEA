@@ -1,2 +1,2 @@
 # MY-IDEA
-我的IDEA仓库
+我的IDEA配置
